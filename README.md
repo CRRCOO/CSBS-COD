@@ -75,6 +75,8 @@ You can modify `config.py` to set all the data paths. Here is an example of a se
 
 + Traning hyperparameters and data paths can be modified in `config.py`.
 
++ Pretrained weights for PVTv2 backbone can be downloaded from https://github.com/whai362/PVT/tree/v2/classification .
+
 + Installing necessary packages:
    + pytorch: https://pytorch.org
    + pysodmetrics: https://github.com/lartpang/PySODMetrics

@@ -67,7 +67,7 @@ You can modify `config.py` to set all the data paths. Here is an example of a se
 
 1. Put the training data in folder `./data/COD/TrainDataset`, and put the testing data in folder `./data/COD/TestDataset`.
 
-2. `TrainDataset` should contain two folders: `Imgs` and `GT`. 
+2. `TrainDataset` should contain three folders: `Imgs`, `GT`, and `Edge`. 
 
 3. `TestDataset` should contain four folders: `CHAMELEON`, `CAMO`, `COD10K`, and `NC4K`. Each of the four folders contains two sub-folders: `Imgs` and `GT`.
 

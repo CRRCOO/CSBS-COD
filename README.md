@@ -30,21 +30,21 @@
 <p align="center">
     <img src="imgs/result-cnn.png"/> <br />
     <em> 
-    Figure 3: Quantitative Comparison of CNN-based COD Methods.
+    Figure 2: Quantitative Comparison of CNN-based COD Methods.
     </em>
 </p>
 
 <p align="center">
     <img src="imgs/result-vit.png"/> <br />
     <em> 
-    Figure 4: Quantitative Comparison of Transformer-based COD Methods.
+    Figure 3: Quantitative Comparison of Transformer-based COD Methods.
     </em>
 </p>
 
 <p align="center">
     <img src="imgs/result-sod.png"/> <br />
     <em> 
-    Figure 5: Quantitative Comparison of SOD Methods.
+    Figure 4: Quantitative Comparison of SOD Methods.
     </em>
 </p>
 
@@ -53,7 +53,7 @@
 <p align="center">
     <img src="imgs/vis.png"/> <br />
     <em> 
-    Figure 6: Qualitative Comparison.
+    Figure 5: Qualitative Comparison.
     </em>
 </p>
 

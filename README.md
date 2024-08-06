@@ -104,15 +104,16 @@ You can modify `config.py` to set all the data paths. Here is an example of a se
 Please cite our paper if you find the work useful, thanks!
 	
     @ARTICLE{10537109,
-      author={Liang, Weiyun and Wu, Jiesheng and Mu, Xinyue and Hao, Fangwei and Du, Ji and Xu, Jing and Li, Ping},
-      journal={IEEE Sensors Journal}, 
-      title={Weighted Dense Semantic Aggregation and Explicit Boundary Modeling for Camouflaged Object Detection}, 
-      year={2024},
-      volume={},
-      number={},
-      pages={1-1}, 
-      doi={10.1109/JSEN.2024.3401722}
+  	author={Liang, Weiyun and Wu, Jiesheng and Mu, Xinyue and Hao, Fangwei and Du, Ji and Xu, Jing and Li, Ping},
+  	journal={IEEE Sensors Journal}, 
+  	title={Weighted Dense Semantic Aggregation and Explicit Boundary Modeling for Camouflaged Object Detection}, 
+ 	year={2024},
+  	volume={24},
+  	number={13},
+  	pages={21108-21122},
+  	doi={10.1109/JSEN.2024.3401722}
     }
+
 
 
     
